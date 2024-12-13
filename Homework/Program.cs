@@ -1,10 +1,31 @@
-﻿namespace Homework
+﻿using System.ComponentModel.Design;
+using System.Runtime.Intrinsics.X86;
+
+namespace Homework
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Lesson5.Demo();
         }
     }
 }
+
+        
+        
+                 
+        
+    
+
+
+       
+        
+   
+
+
+
+        
+        
+        
+         
